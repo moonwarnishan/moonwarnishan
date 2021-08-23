@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moonwar Al Wardiful
-- 👀 I’m interested in Web development
+- 👀 Competitive programming
 - 🌱 I’m currently learning Asp.net core MVC
 - 📫 How to reach me fb/moonwar.nishan
 or github
