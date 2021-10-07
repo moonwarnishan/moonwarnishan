@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Moonwar Al Wardiful
 - 👀 Competitive programming
 - 🥰front end developer 
-- 🌱 I’m currently learning Asp.net core MVC
+- 🌱 I’m currently working with Asp.net core MVC
 - 📫 How to reach me fb/moonwar.nishan
+- Email: nishan.rumc@gmail.com
 or github
 
 <!---
