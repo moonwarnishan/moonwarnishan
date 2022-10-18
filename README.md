@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonwarnishan&label=Profile%20views&color=0e75b6&style=flat" alt="moonwarnishan" /> </p>
 
-- 🌱 I’m currently learning **Angular, asp.net core**
+- 🌱 **Angular, asp.net core developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moonwarnishan](https://github.com/moonwarnishan)
 
