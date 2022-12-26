@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **nishan.rumc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BtkCSUxuZJKuVdVkHUnWMD1s9T8-k9b8/view](https://drive.google.com/file/d/1BtkCSUxuZJKuVdVkHUnWMD1s9T8-k9b8/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
