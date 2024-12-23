@@ -58,14 +58,4 @@ With 2 years of professional experience in full-stack development, I specialize 
 - LinkedIn: [Moonwar Al Wardiful](https://linkedin.com/in/moonwar)
 - Blog: [Technical Articles](https://moonwarnishan.blogspot.com/)
 
-### 🏆 Competitive Programming
-- Active on LeetCode & CodeForces
-- Problem-solving enthusiast
-- Regular participant in coding competitions
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonwarnishan&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonwarnishan&layout=compact&theme=radical)
 
